@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "cypress": "^14.3.3"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
   }
 }
