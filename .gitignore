@@ -1,1 +1,3 @@
 cypress/support/constants.js
+package-lock.json
+package.json
